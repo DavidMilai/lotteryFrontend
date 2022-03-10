@@ -1,8 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
+import lottery from './lottery';
 
 
 function App() {
+  console.log(lottery);
   return (
     <div className="App">
       <header className="App-header">
