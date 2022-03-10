@@ -1,10 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
 import lottery from './lottery';
+import web3 from './web3';
 
 
 function App() {
   console.log(lottery);
+  console.log(web3);
+
   return (
     <div className="App">
       <header className="App-header">
